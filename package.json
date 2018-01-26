@@ -1,0 +1,12 @@
+{
+  "name": "ping_calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.9.x",
+    "socket.io": "latest"
+  },
+  "scripts": {
+    "start": "node index"
+  }
+}
