@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "express": "4.9.x",
+    "express": "4.17.3",
     "socket.io": "latest"
   },
   "scripts": {
